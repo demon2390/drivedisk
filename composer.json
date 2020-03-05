@@ -1,0 +1,13 @@
+{
+    "name": "root/dropydrivedisk.local",
+    "type": "project",
+    "authors": [
+        {
+            "name": "demon2390",
+            "email": "gusev.demon2390@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
